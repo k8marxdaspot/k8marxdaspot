@@ -62,4 +62,6 @@ Future goals include working in **network security, infrastructure protection, a
 
 ---
 
-⭐ *Always learning, experimenting, and building.*
+## 🎧 Recently Played
+
+![Last.fm](https://lastfm-recently-played.vercel.app/api?user=milkyggchild)
