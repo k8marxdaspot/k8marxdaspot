@@ -1,44 +1,36 @@
 # Hi, I'm Kate 👋
 
-🎓 **Cybersecurity & Computer Science student**
-🔐 Interested in **network security, infrastructure protection, and surveillance technology risks**
-🌐 Exploring **IoT security, privacy engineering, and network analysis**
+🎓 **Cybersecurity major | Computer Science minor**
+🔐 Focused on **network security, infrastructure protection, and surveillance technology risks**
+🌐 Interested in **IoT security, privacy engineering, and network analysis**
 
----
-
-## 🧠 Areas of Interest
-
-* 📡 Network Security & Traffic Analysis
-* 🏗️ Infrastructure & Systems Security
-* 📷 Surveillance Technology & Privacy Risks
-* 🧩 Intrusion Detection & Threat Analysis
-* 🔎 Digital Forensics
-
----
-
-## 🛠️ Technologies & Tools
-
-* 💻 Languages: C++, C#, Python, SQL, Java
-* 🌐 Networking: Packet analysis, network protocols, IDS concepts
-* 🔐 Security: Pen testing, intrusion detection, digital forensics
-* ⚙️ Tools: Wireshark, Git, Kali Linux, networking labs
+📡 **Core Interests:** Network Security • Intrusion Detection • Infrastructure Security • Privacy & Surveillance Tech
 
 ---
 
 ## 🚧 Current Projects
 
-* 📚 **Surveillance Security Research** *(in progress)*
-  Exploring the privacy and security risks of surveillance infrastructure and IoT monitoring systems.
+📚 **Surveillance Security Research** *(in progress)*
+Exploring the privacy and security risks of surveillance infrastructure and IoT monitoring systems.
 
-* 📊 **Network Traffic Analyzer** *(planned)*
-  A Python tool to capture and analyze network traffic patterns.
+📊 **Network Traffic Analyzer** *(planned)*
+A Python tool for capturing and analyzing packet traffic and protocol patterns.
 
-* 🛡️ **Intrusion Detection Experiments** *(planned)*
-  Building small IDS tools and experimenting with packet inspection.
+🛡️ **Intrusion Detection Experiments** *(planned)*
+Small IDS tools and packet inspection experiments.
 
 ---
 
-## 📈 Currently Learning
+## 🛠️ Technologies & Tools
+
+**Languages:** C++, C#, Python, SQL, Java
+**Networking:** Packet analysis, network protocols, IDS concepts
+**Security:** Penetration testing, intrusion detection, digital forensics
+**Tools:** Wireshark, Git, Kali Linux, networking labs
+
+---
+
+## 🧠 Currently Learning
 
 * Advanced networking and infrastructure security
 * Detection of suspicious network activity
@@ -65,3 +57,7 @@ Future goals include working in **network security, infrastructure protection, a
 ## 🎧 Recently Played
 
 ![Last.fm](https://lastfm-recently-played.vercel.app/api?user=milkyggchild)
+
+---
+
+⭐ *Always learning, experimenting, and building.*
